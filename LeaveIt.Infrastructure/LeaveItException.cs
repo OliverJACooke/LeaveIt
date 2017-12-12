@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LeaveIt.Infrastructurew
+namespace LeaveIt.Infrastructure
 {
     public class LeaveItException : Exception
     {
